@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Atuti Michelle
+###ATUTI MICHELLE
 - 💻 Full Stack Developer working on backend, web, and IoT/ML projects
 - 🔥 Check out FlameGuard, an IoT fire detection system, and Bus-Ease, a booking platform
 - 🛠️ Tech: Python, PHP, JavaScript, Laravel, Angular, Node.js, Flask
